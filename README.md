@@ -1,0 +1,1 @@
+I created this game as a mini project for my computer science class in 2018. It was a fun little mini project at the beginning of the year.
