@@ -1,5 +1,5 @@
 #PIG Game
-#A pig gam I created for my Python computer science class
+#A pig gam I created for my Python computer science class last year
 #Griffin Kramer
 import random
 
